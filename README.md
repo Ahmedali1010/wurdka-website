@@ -15,3 +15,8 @@ A modern, high-performance, and interactive web platform built for the **WURDKA*
 * **Security-First:** Secure routing for external documents (preventing Tabnabbing via `rel="noopener noreferrer"`) and secure API key integration.
 * **Responsive Architecture:** Fully adaptable layout for Web, Tablet, and Mobile environments.
 
+🌐 Live Preview
+The project is continuously deployed and live at:
+https://wurdka-website.vercel.app
+Developed and maintained for WURDKA.
+
