@@ -15,9 +15,3 @@ A modern, high-performance, and interactive web platform built for the **WURDKA*
 * **Security-First:** Secure routing for external documents (preventing Tabnabbing via `rel="noopener noreferrer"`) and secure API key integration.
 * **Responsive Architecture:** Fully adaptable layout for Web, Tablet, and Mobile environments.
 
-## ⚙️ Local Development
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/Ahmedali1010/wurdka-website.git](https://github.com/Ahmedali1010/wurdka-website.git)
-   cd wurdka-website
